@@ -1,3 +1,13 @@
+# JetBrains IDE
+.idea/
+
+# VSCode
+.vscode/
+
+# build 目录
+build/
+cmake-build-*/
+
 # Prerequisites
 *.d
 
